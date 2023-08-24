@@ -3,3 +3,7 @@ numpy
 seaborn
 requests
 torch
+matplotlib
+scikit-learn
+catboost
+xgboost
