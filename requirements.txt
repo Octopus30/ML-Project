@@ -8,3 +8,5 @@ scikit-learn
 catboost
 xgboost
 sklearn
+dill
+os-sys
